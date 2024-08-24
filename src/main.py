@@ -40,3 +40,5 @@ def load_config():
             # db_port = config.get('database_port', 5432)
     else:
         print("Configuration file not found.")
+
+# Make sure to add more here 1
