@@ -42,3 +42,4 @@ def load_config():
         print("Configuration file not found.")
 
 # Make sure to add more here 1
+# Make sure to add more here 2
